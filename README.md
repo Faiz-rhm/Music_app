@@ -1,16 +1,23 @@
-# Music_app
+🎵 Flutter Music App
+A minimal music player built with:
 
-A new Flutter project.
+🎧 just_audio – for audio playback
 
-## Getting Started
+🎚️ flutter_audio_waveforms – for waveform visualizations
 
-This project is a starting point for a Flutter application.
+🔁 rxdart – for reactive audio streams
 
-A few resources to get you started if this is your first Flutter project:
+🎶 marqueer – for scrolling track titles
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📸 Preview
+<img width="1699" alt="Screenshot 1404-01-26 at 10 12 01" src="https://github.com/user-attachments/assets/8716e035-f1f6-486a-8455-ba6f3ea6a3d8" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+🚀 Quick Start
+bash
+Copy
+Edit
+git clone https://github.com/your-username/flutter-music-app.git
+cd flutter-music-app
+flutter pub get
+flutter run
